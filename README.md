@@ -1,6 +1,8 @@
 [![](https://jitpack.io/v/liyuzhao/tagview.svg)](https://jitpack.io/#liyuzhao/tagview)
 
 
+>frok from: [https://github.com/Cutta/TagView](https://github.com/Cutta/TagView)
+
 #### Step 1.
 Add it in your root build.gradle at the end of repositories:
 
