@@ -1,7 +1,9 @@
 package com.zdxd.tagview;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.easemob.tagview.R;
 
 public class MainActivity extends AppCompatActivity {
 

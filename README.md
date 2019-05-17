@@ -3,6 +3,8 @@
 
 >frok from: [https://github.com/Cutta/TagView](https://github.com/Cutta/TagView)
 
+>2.x migrate to androidx
+
 #### Step 1.
 Add it in your root build.gradle at the end of repositories:
 
@@ -20,7 +22,7 @@ Add the dependency
 
 ```
 	dependencies {
-	        implementation 'com.github.liyuzhao:tagview:v1.0.1'
+	        implementation 'com.github.liyuzhao:tagview:v2.0.0'
 	}
 
 ```
